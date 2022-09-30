@@ -1,7 +1,6 @@
 
-
 p {
-    font-size: 100px;
+    font-size: 10px;
     display: block;
   }
   @media (max-height: 800px) {
