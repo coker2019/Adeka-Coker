@@ -1,10 +1,17 @@
-
+@media screen and (min-width: 600px) {
+  p {
+    font-size: 30px;
+  }
+}
 p {
     font-size: 10px;
-    display: block;
+    
   }
-  @media (max-height: 800px) {
- p{
-   font-size:20px;
- }
+
+
+
+body{
+align-self: center;
+
 }
+
